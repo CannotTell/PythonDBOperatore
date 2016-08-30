@@ -72,3 +72,5 @@ class MSSQL:
 		cur.execute(sql)
 		self.conn.commit()
 		#self.conn.close()
+
+
